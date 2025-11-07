@@ -1,1 +1,2 @@
-# hello-github
+# こんにちは GitHub
+はじめてのコミットです。
